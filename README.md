@@ -14,7 +14,5 @@ Escribility
 </p>
 
 <p align="center"><strong>Java 17 highly recommended.</strong></p>
-<p align="center">
-  Adoptium JDK can be found at https://adoptium.net/temurin/releases/?version=17.
-  Oracle JDK can be found at https://www.oracle.com/java/technologies/downloads/#jdk17-windows
-</p>
+<p align="center">Adoptium JDK can be found at https://adoptium.net/temurin/releases/?version=17</p>
+<p align="center">Oracle JDK can be found at https://www.oracle.com/java/technologies/downloads/#jdk17-windows</p>
