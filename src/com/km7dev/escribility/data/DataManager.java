@@ -15,8 +15,8 @@ public class DataManager {
 
     public void WriteToTxt(String text) {
         try {
-            createFile(new File("Math Notes.txt"));
-            FileWriter w = new FileWriter("Math Notes.txt");
+            createFile(new File("file.txt"));
+            FileWriter w = new FileWriter("file.txt");
             w.write(text);
             w.close();
         } catch(Exception e) {
