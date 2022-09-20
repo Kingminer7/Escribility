@@ -4,7 +4,7 @@ Escribility
 
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-java.svg" href="https://adoptium.net/temurin/releases/?version=17" />
+  <a href="https://adoptium.net/temurin/releases/?version=17"><img src="https://forthebadge.com/images/badges/made-with-java.svg"/> </a>
 </p>
 
 <p align="center">A text editor made in Java</p>
